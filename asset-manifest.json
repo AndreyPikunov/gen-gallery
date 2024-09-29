@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bu-yao-hui-da/static/css/main.3045a5a2.css",
+    "main.js": "/bu-yao-hui-da/static/js/main.10d1c4a3.js",
+    "index.html": "/bu-yao-hui-da/index.html",
+    "main.3045a5a2.css.map": "/bu-yao-hui-da/static/css/main.3045a5a2.css.map",
+    "main.10d1c4a3.js.map": "/bu-yao-hui-da/static/js/main.10d1c4a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3045a5a2.css",
+    "static/js/main.10d1c4a3.js"
+  ]
+}
